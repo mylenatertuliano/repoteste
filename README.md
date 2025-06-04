@@ -1,5 +1,3 @@
 # repoteste
 
-olá!
-
-e olá novamente
+git clone http://linkdorepo
